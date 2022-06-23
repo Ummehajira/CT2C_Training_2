@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestDemo" project="ProjectJU" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="testPackage.TestDemo" time="0.0" displayname="TestDemo" uniqueid="[engine:junit-jupiter]/[class:testPackage.TestDemo]">
+    <testcase name="display2" classname="testPackage.TestDemo" time="0.0" displayname="display2()" uniqueid="[engine:junit-jupiter]/[class:testPackage.TestDemo]/[method:display2()]"/>
+    <testcase name="display3" classname="testPackage.TestDemo" time="0.0" displayname="display3()" uniqueid="[engine:junit-jupiter]/[class:testPackage.TestDemo]/[method:display3()]"/>
+    <testcase name="display" classname="testPackage.TestDemo" time="0.0" displayname="display()" uniqueid="[engine:junit-jupiter]/[class:testPackage.TestDemo]/[method:display()]"/>
+  </testsuite>
+</testrun>

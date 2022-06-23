@@ -1,0 +1,14 @@
+package java8_Features;
+
+public class Main {
+	
+
+	public static void main(String[] args) {
+		Hero sonuby=new Hero();
+		Villain Fareed=new Villain();
+		System.out.println("Hero\n");
+		sonuby.act();
+		sonuby.comedy();
+		sonuby.speak();
+}
+}

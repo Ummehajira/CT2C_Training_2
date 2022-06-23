@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/https://github.com/Ummehajira/C2TC_Core-Java.git"/>
+		<item value="Ummehajira@https://github.com/Ummehajira/C2TC_Core-Java.git:https://github.com/Ummehajira"/>
+		<item value="Ummehajira@https://github.com/Ummehajira:https://github.com/Ummehajira/C2TC_Core-Java.git"/>
+		<item value="ummehajira@ummehajira:https://github.com/Ummehajira/C2TC_Core-Java.git"/>
+		<item value="ummehajira:https://github.com/Ummehajira/C2TC_Core-Java.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Hajira &lt;ummehajira2000@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Hajira &lt;ummehajira2000@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Hp\git\repository\.git">
+			<item value="false"/>
+			<item value="Hajira &lt;ummehajira2000@gmail.com&gt;"/>
+			<item value="commit"/>
+			<item value="Hajira &lt;ummehajira2000@gmail.com&gt;"/>
+			<item value="e4f9e25306a004cded51e9c3d83a12a3cd0f69ce"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

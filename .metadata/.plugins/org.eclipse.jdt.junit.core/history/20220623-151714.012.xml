@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AssertDemo" project="ProjectJU" tests="3" started="3" failures="0" errors="0" ignored="3">
+  <testsuite name="testPackage.AssertDemo" time="0.0" displayname="AssertDemo" uniqueid="[engine:junit-jupiter]/[class:testPackage.AssertDemo]">
+    <testcase name="Simple" classname="testPackage.AssertDemo" time="0.0" ignored="true" displayname="Simple()" uniqueid="[engine:junit-jupiter]/[class:testPackage.AssertDemo]/[method:Simple()]"/>
+    <testcase name="Simple1" classname="testPackage.AssertDemo" time="0.0" ignored="true" displayname="Simple1()" uniqueid="[engine:junit-jupiter]/[class:testPackage.AssertDemo]/[method:Simple1()]"/>
+    <testcase name="Simple2" classname="testPackage.AssertDemo" time="0.0" ignored="true" displayname="Simple2()" uniqueid="[engine:junit-jupiter]/[class:testPackage.AssertDemo]/[method:Simple2()]"/>
+  </testsuite>
+</testrun>

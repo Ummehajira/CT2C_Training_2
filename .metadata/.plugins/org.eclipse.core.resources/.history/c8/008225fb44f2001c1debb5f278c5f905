@@ -1,0 +1,21 @@
+package keyword;
+class TestThis5 {
+	
+	TestThis5(){
+		System.out.println("hello a");
+	}
+	TestThis5(int x){
+		this();
+		System.out.println(x);
+	}
+
+}
+
+public class TestThis5{
+	public static void main(String[] args) {
+		TestThis5 d = new TestThis5(10);
+	}
+}
+
+
+
